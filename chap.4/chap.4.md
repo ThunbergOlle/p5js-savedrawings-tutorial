@@ -105,4 +105,4 @@ Now hit save and everything should be setup and working. When you click the "sav
 Final chapter done! :apple:
 Doesn't it work? Check the files inside this folder. 
 
-Thanks for reading! Did you note something weird? Open an [issue]()
+Thanks for reading! Did you note something weird? Open an [issue](https://github.com/ThunbergOlle/p5js-savedrawings-tutorial/issues)

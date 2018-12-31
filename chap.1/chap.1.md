@@ -52,4 +52,4 @@ draw = () => {
 First chapter done! :apple:
 After every chapter you can see the files here in the folder if you've missed something.
 
-[Next](https://www.google.com)
+[Next](https://github.com/ThunbergOlle/p5js-savedrawings-tutorial/blob/master/chap.2/chap.2.md)

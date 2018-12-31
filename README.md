@@ -12,14 +12,14 @@ Draw an image and store it as an variable and then make it downloadable as a jso
 ---
 
 #### Chapters
-[Chapter 1 (Basics)]()
+[Chapter 1 (Basics)](https://github.com/ThunbergOlle/p5js-savedrawings-tutorial/blob/master/chap.1/chap.1.md)
 
-[Chapter 2 (Variables & Event Listeners)]()
+[Chapter 2 (Variables & Event Listeners)](https://github.com/ThunbergOlle/p5js-savedrawings-tutorial/blob/master/chap.2/chap.2.md)
 
-[Chapter 3 (Drawing to the canvas)]()
+[Chapter 3 (Drawing to the canvas)](https://github.com/ThunbergOlle/p5js-savedrawings-tutorial/blob/master/chap.3/chap.3.md)
 
-[Chapter 4 (Handling the data)]()
+[Chapter 4 (Handling the data)](https://github.com/ThunbergOlle/p5js-savedrawings-tutorial/blob/master/chap.4/chap.4.md)
 
 Did every single one? You should take a look on how you can redraw them (Soon)!
 #### Issues :warning:
-If you see any spelling errors or weirdly typed sentences then please open an issue or a pullrequest fixing it! :heart:
+If you see any spelling errors or weirdly typed sentences then please open an [issue](https://github.com/ThunbergOlle/p5js-savedrawings-tutorial/issues) or a [pull request](https://github.com/ThunbergOlle/p5js-savedrawings-tutorial/pulls) fixing it! :heart:

@@ -63,4 +63,4 @@ We should set the x and y variables to be equal to clientY and clientX. This is 
 Secound chapter done! :apple:
 After every chapter you can see the files here in the folder if you've missed something.
 
-[Next](https://www.google.com)
+[Next](https://github.com/ThunbergOlle/p5js-savedrawings-tutorial/blob/master/chap.3/chap.3.md)

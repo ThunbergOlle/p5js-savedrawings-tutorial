@@ -121,4 +121,4 @@ In the next final chapter, we will handle the saving part.
 Third chapter done! :apple:
 After every chapter you can see the files here in the folder if you've missed something.
 
-[Next](https://www.google.com)
+[Next](https://github.com/ThunbergOlle/p5js-savedrawings-tutorial/blob/master/chap.4/chap.4.md)
